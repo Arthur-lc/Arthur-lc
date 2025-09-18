@@ -26,8 +26,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 👨‍💻 Sobre mim
-Estudante de Ciência da Computação na **Universidade Federal de Juiz de Fora (UFJF)**.  
-Tenho interesse em **desenvolvimento de software**, com experiência em projetos pessoais e acadêmicos utilizando React, Node.js, Java, PostgreSQL e C#.  
+Estudante de Ciência da Computação na Universidade Federal de Juiz de Fora, com interesse em **desenvolvimento frontend e backend**. Experiência em projetos pessoais e acadêmicos, aplicando habilidades em **React, Node.js, Java** e outras tecnologias.
 
 ---
 ## 🚀 Meus Projetos
@@ -39,10 +38,9 @@ Tenho interesse em **desenvolvimento de software**, com experiência em projetos
   Pipeline de **Retrieval-Augmented Generation (RAG)** usando **Node.js, React e LanceDB**.  
   Implementa arquitetura **cliente-servidor**: o front-end envia requisições ao backend, que realiza o retrieval nos documentos, gera o prompt para o modelo **LLM** e retorna a resposta junto com os chunks de texto relevantes.  
 
-
 - [**Yggdrasil**](https://github.com/Arthur-lc/yggdrasil)  
   Aplicativo em **JavaScript** para salvar e compartilhar mundos do jogo **Valheim** na nuvem.  
-  Permite que amigos façam download e upload do mundo, garantindo continuidade da jogatina.  
+  Utilizando **Firebase** para armazenamento e sincronização dos mundos.
 
 - [**Geo Questions**](https://github.com/Arthur-lc/geo-questions)  
   Jogo de quiz feito em **React.js + Vite**, consumindo a API pública **REST Countries**.  
