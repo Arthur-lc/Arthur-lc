@@ -2,7 +2,6 @@
 
 📍 Juiz de Fora - MG  
 📧 costa.arthur.lima@gmail.com  
-📱 +55 24 99233-1633  
 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-lima-da-costa-680790213/)
 
 ---
