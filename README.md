@@ -33,11 +33,11 @@ Estudante de Ciência da Computação na Universidade Federal de Juiz de Fora, c
 - [**Seminário Geopsíquico**](https://seminario-geopsiquico-ufjf.vercel.app/)  
   Site desenvolvido em **React.js** para o evento da UFJF
 
-- [**Projeto RAG**](https://github.com/Arthur-lc/projeto-rag)  
+- [**Projeto RAG**](https://github.com/Arthur-lc/RAG)  
   Pipeline de **Retrieval-Augmented Generation (RAG)** usando **Node.js, React e LanceDB**.  
   Implementa arquitetura **cliente-servidor**: o front-end envia requisições ao backend, que realiza o retrieval nos documentos, gera o prompt para o modelo **LLM** e retorna a resposta junto com os chunks de texto relevantes.  
 
-- [**Yggdrasil**](https://github.com/Arthur-lc/yggdrasil)  
+- [**Yggdrasil**](https://github.com/Arthur-lc/Yggdrasil)  
   Aplicativo em **JavaScript** para salvar e compartilhar mundos do jogo **Valheim** na nuvem.  
   Utilizando **Firebase** para armazenamento e sincronização dos mundos.
 
