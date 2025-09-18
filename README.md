@@ -30,6 +30,25 @@ Estudante de Ciência da Computação na **Universidade Federal de Juiz de Fora 
 Tenho interesse em **desenvolvimento de software**, com experiência em projetos pessoais e acadêmicos utilizando React, Node.js, Java, PostgreSQL e C#.  
 
 ---
+## 🚀 Meus Projetos
+
+- [**Seminário Geopsíquico**](https://seminario-geopsiquico-ufjf.vercel.app/)  
+  Site desenvolvido em **React.js** para o evento da UFJF
+
+- [**Projeto RAG**](https://github.com/Arthur-lc/projeto-rag)  
+  Pipeline de **Retrieval-Augmented Generation (RAG)** usando **Node.js, React e LanceDB**.  
+  Implementa arquitetura **cliente-servidor**: o front-end envia requisições ao backend, que realiza o retrieval nos documentos, gera o prompt para o modelo **LLM** e retorna a resposta junto com os chunks de texto relevantes.  
+
+
+- [**Yggdrasil**](https://github.com/Arthur-lc/yggdrasil)  
+  Aplicativo em **JavaScript** para salvar e compartilhar mundos do jogo **Valheim** na nuvem.  
+  Permite que amigos façam download e upload do mundo, garantindo continuidade da jogatina.  
+
+- [**Geo Questions**](https://github.com/Arthur-lc/geo-questions)  
+  Jogo de quiz feito em **React.js + Vite**, consumindo a API pública **REST Countries**.  
+  Apresenta perguntas sobre países em tempo real com dados atualizados.
+  
+---
 
 ## 🛠️ Competências
 - **Linguagens:** JavaScript, TypeScript, Java, C++, C#, SQL, HTML, CSS
