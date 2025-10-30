@@ -28,6 +28,31 @@
 Estudante de Ciência da Computação na Universidade Federal de Juiz de Fora, com interesse em **desenvolvimento frontend e backend**. Experiência em projetos pessoais e acadêmicos, aplicando habilidades em **React, Node.js, Java** e outras tecnologias.
 
 ---
+
+## 💼 Experiência
+
+- **Projeto de Iniciação Científica — Bolsista UFJF
+SET 2025 - ATUALMENTE** 
+  - Coletar dados relacionados à Blockchain.
+  - Aplicar algoritmos de análise de dados para detecção de transações anômalas.
+
+- **Desenvolvedor Backend — Voluntário UFJF / SUS
+SET 2025 - ATUALMENTE**
+  - Desenvolver o backend completo da aplicação utilizando Nest.js e TypeScript.
+  - Projetar e modelar o schema do banco de dados em PostgreSQL com Prisma ORM.
+  - Implementar um sistema robusto de autenticação e permissões complexas (RBAC).
+
+
+- **Desenvolvedor Frontend — Bolsista UFJF (Fev – Abr 2025)**  
+  - Desenvolvimento de um site para o *I Seminário Geopsíquico* **(React.js)**  
+  - Implementação do sistema de inscrições e organização da base de dados  
+
+- **Monitor de Algoritmos — Bolsista UFJF (Mar 2023 – Fev 2025)**  
+  - Auxílio a alunos em fundamentos teóricos e práticos de algoritmos  
+  - Apoio no planejamento de atividades  
+
+---
+
 ## 🚀 Meus Projetos
 
 - [**Seminário Geopsíquico**](https://seminario-geopsiquico-ufjf.vercel.app/)  
@@ -54,16 +79,6 @@ Estudante de Ciência da Computação na Universidade Federal de Juiz de Fora, c
 
 ---
 
-## 💼 Experiência
-- **Desenvolvedor Frontend — Bolsista UFJF (Fev – Abr 2025)**  
-  - Desenvolvimento de um site para o *I Seminário Geopsíquico* **(React.js)**  
-  - Implementação do sistema de inscrições e organização da base de dados  
-
-- **Monitor de Algoritmos — Bolsista UFJF (Mar 2023 – Fev 2025)**  
-  - Auxílio a alunos em fundamentos teóricos e práticos de algoritmos  
-  - Apoio no planejamento de atividades  
-
----
 
 ## 🌍 Idiomas
 - Português: nativo  
