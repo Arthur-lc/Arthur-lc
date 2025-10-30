@@ -31,13 +31,13 @@ Estudante de Ciência da Computação na Universidade Federal de Juiz de Fora, c
 
 ## 💼 Experiência
 
-- **Projeto de Iniciação Científica — Bolsista UFJF
-SET 2025 - ATUALMENTE** 
+- **Projeto de Iniciação Científica — Bolsista UFJF  
+Set 2025 - Atualmente** 
   - Coletar dados relacionados à Blockchain.
   - Aplicar algoritmos de análise de dados para detecção de transações anômalas.
 
-- **Desenvolvedor Backend — Voluntário UFJF / SUS
-SET 2025 - ATUALMENTE**
+- **Desenvolvedor Backend — Voluntário UFJF / SUS  
+Set 2025 - Atualmente**
   - Desenvolver o backend completo da aplicação utilizando Nest.js e TypeScript.
   - Projetar e modelar o schema do banco de dados em PostgreSQL com Prisma ORM.
   - Implementar um sistema robusto de autenticação e permissões complexas (RBAC).
