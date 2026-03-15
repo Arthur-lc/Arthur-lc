@@ -37,7 +37,7 @@ Set 2025 - Atualmente**
   - Aplicar algoritmos de análise de dados para detecção de transações anômalas.
 
 - **Desenvolvedor Backend — Voluntário UFJF / SUS  
-Set 2025 - Atualmente**
+Set - Dez 2025**
   - Desenvolver o backend completo da aplicação utilizando Nest.js e TypeScript.
   - Projetar e modelar o schema do banco de dados em PostgreSQL com Prisma ORM.
   - Implementar um sistema robusto de autenticação e permissões complexas (RBAC).
